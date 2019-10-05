@@ -1,5 +1,9 @@
 .ui.borderless.menubar.menu {
-  background-color: #f5f5f5;
+  background-color: #f7f7f7;
   box-shadow: none;
   border: none;
+}
+
+.ui.borderless.menubar.menu .item:hover{
+  background-color: #f7f7f7;
 }

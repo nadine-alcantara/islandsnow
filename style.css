@@ -16,3 +16,17 @@
 .ui.borderless.second.menu .item:hover{
   background-color: #fff;
 }
+
+.footer {
+  height: 431px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer a {
+  color: black;
+}
+
+.ui.relaxed.list .item {
+  color: black;
+}
